@@ -1,0 +1,13 @@
+{
+    "name": "nettspill",
+    "version": "1.0.0",
+    "description": "Enkelt spill med HTML, CSS og JavaScript",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  

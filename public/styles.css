@@ -1,0 +1,18 @@
+canvas {
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+}
+
+#startScreen {
+    text-align: center;
+    margin-top: 200px;
+}
+
+#startButton {
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
